@@ -42,6 +42,23 @@ Open [http://localhost:3000](http://localhost:3000).
 ### Architecture
 ![Architecture](screenshots/architecture.png)
 
+## Example Output
+
+```json
+{
+  "url": "https://stripe.com",
+  "analyzedAt": "2026-05-06T16:45:00Z",
+  "businessSummary": "Stripe is a financial infrastructure platform that enables businesses of all sizes to accept payments, manage billing, and handle global money movement through developer-friendly APIs.",
+  "clarityScore": 8,
+  "clarityReason": "Stripe's homepage immediately communicates its core value proposition with clear, jargon-free language and strong CTAs, though it could better highlight non-developer benefits.",
+  "suggestions": [
+    "Add a one-line tagline above the fold that speaks directly to non-technical decision makers, not just developers",
+    "Include a 'Who it's for' section to help visitors self-identify quickly (startups, enterprises, marketplaces)",
+    "Replace abstract hero text with a concrete outcome statement like 'Accept payments in 135+ currencies in minutes'"
+  ]
+}
+```
+
 ## Tech stack
 
 | | |
