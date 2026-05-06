@@ -1,0 +1,13 @@
+{
+  "url": "https://stripe.com",
+  "result": {
+    "businessSummary": "Stripe is a financial infrastructure platform that enables businesses of all sizes to accept online payments, manage subscriptions, and build custom financial products through a developer-friendly API. It serves everything from solo founders to Fortune 500 companies across 195+ countries.",
+    "clarityScore": 8,
+    "clarityReason": "Stripe's homepage clearly communicates its core value proposition — powering payments for the internet — with concise hero copy, strong social proof, and direct CTAs, though some secondary messaging leans technical and may lose non-developer visitors.",
+    "suggestions": [
+      "Add a plain-language headline variant for non-technical decision-makers (e.g. finance or ops leads) who evaluate tools alongside developers, since the current hero copy assumes engineering context.",
+      "Surface a concrete outcome or metric in the hero section — such as 'Go live in minutes' or 'Used by 90% of Fortune 100 companies' — to anchor the value claim with proof above the fold.",
+      "Simplify the navigation mega-menu: the sheer number of product categories (Payments, Billing, Connect, Radar, etc.) creates decision paralysis for first-time visitors who don't yet know which product applies to them."
+    ]
+  }
+}
