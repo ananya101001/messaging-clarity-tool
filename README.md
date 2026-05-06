@@ -28,6 +28,20 @@ Open [http://localhost:3000](http://localhost:3000).
 - **Analysis** — the extracted text is sent to Claude with a structured prompt that returns a clarity score (1–10), a plain-English reason for the score, a one-sentence business summary, and three actionable improvement suggestions
 - **PDF export** — results can be downloaded as a two-page formatted PDF report via jsPDF, with a visual score circle and labeled sections
 
+## Screenshots
+
+### Home Page
+![Home](screenshots/page1.png)
+
+### Analysis Results
+![Results](screenshots/page2.png)
+
+### Full Report
+![Report](screenshots/page3.png)
+
+### Architecture
+![Architecture](screenshots/architecture.png)
+
 ## Tech stack
 
 | | |
