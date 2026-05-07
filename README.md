@@ -25,6 +25,11 @@ Open [http://localhost:3000](http://localhost:3000).
 
 Add this section to README.md right after the title and description, before Setup:
 
+Add this section to README.md right after the Live Demo section:
+
+## 🎥 Demo Video
+[▶ Watch Demo](screenshots/demo_video.mov)
+
 ## 🌐 Live Demo
 👉 [https://messaging-clarity-tool1-a9vbhs06a.vercel.app/](https://messaging-clarity-tool1-a9vbhs06a.vercel.app/)
 
