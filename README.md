@@ -31,7 +31,8 @@ Open [http://localhost:3000](http://localhost:3000).
 ## 🎥 Demo Video (large raw file)
 [▶ Watch Demo](screenshots/demo_video.mov)
 
-## 🌐 Live Demo
+## 🌐 Live Demo on vercel 
+( sometimes vercel gives error, you can refer to demo video where the app is hosted in vercel )
 👉 [https://messaging-clarity-tool1-a9vbhs06a.vercel.app/](https://messaging-clarity-tool1-a9vbhs06a.vercel.app/)
 
 ## How it works
