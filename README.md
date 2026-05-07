@@ -30,6 +30,9 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Screenshots
 
+### Architecture
+![Architecture](screenshots/architecture.png)
+
 ### Home Page
 ![Home](screenshots/page1.png)
 
@@ -39,8 +42,7 @@ Open [http://localhost:3000](http://localhost:3000).
 ### Full Report
 ![Report](screenshots/page3.png)
 
-### Architecture
-![Architecture](screenshots/architecture.png)
+
 
 ## Example Output
 
