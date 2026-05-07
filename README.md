@@ -23,9 +23,7 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000).
 
 
-Add this section to README.md right after the title and description, before Setup:
 
-Add this section to README.md right after the Live Demo section:
 
 ## 🎥 Demo Video (google drive link)
 👉 [Watch Demo on Google Drive](https://drive.google.com/file/d/1nbsHX5smBDOCG_CvadnDXmurPQIbIkz6/view?usp=sharing)
