@@ -33,7 +33,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## 🌐 Live Demo on vercel 
 ( sometimes vercel gives error, you can refer to demo video where the app is hosted in vercel )
-👉 [https://messaging-clarity-to-git-c0e225-ananya-praveen-shettys-projects.vercel.app/](https://messaging-clarity-tool1-a9vbhs06a.vercel.app/)
+👉 [https://messaging-clarity-to-git-c0e225-ananya-praveen-shettys-projects.vercel.app/](hhttps://messaging-clarity-to-git-c0e225-ananya-praveen-shettys-projects.vercel.app//)
 
 ## How it works
 
