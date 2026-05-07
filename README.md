@@ -22,6 +22,12 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+
+Add this section to README.md right after the title and description, before Setup:
+
+## 🌐 Live Demo
+👉 [https://messaging-clarity-tool1-a9vbhs06a.vercel.app/](https://messaging-clarity-tool1-a9vbhs06a.vercel.app/)
+
 ## How it works
 
 - **Scraping** — the API route fetches the target URL with axios and uses cheerio to extract the page title, meta description, H1/H2 headings, hero paragraph text, and CTA button copy
