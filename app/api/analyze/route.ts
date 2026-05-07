@@ -2,7 +2,9 @@ import axios from 'axios'
 import * as cheerio from 'cheerio'
 import Anthropic from '@anthropic-ai/sdk'
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY })
+const client = new Anthropic({
+  apiKey: process.env.ANTHROPIC_API_KEY!,
+})
 
 function extractContent(html: string): string {
   const $ = cheerio.load(html)
